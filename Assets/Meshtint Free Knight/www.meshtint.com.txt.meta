@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 48f8c256bc36d2c4da7b620f98f495b4
+timeCreated: 1484640810
+licenseType: Store
+TextScriptImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 133286
+  packageName: Meshtint Free Knight
+  packageVersion: 1.0
+  assetPath: Assets/Meshtint Free Knight/www.meshtint.com.txt
+  uploadId: 278674

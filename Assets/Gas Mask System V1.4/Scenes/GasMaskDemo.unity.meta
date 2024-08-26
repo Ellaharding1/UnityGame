@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 30fb6fed02de1c54eb9c74162bb583eb
+timeCreated: 1513101456
+licenseType: Store
+DefaultImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 166312
+  packageName: Gas Mask System V1
+  packageVersion: 1.4
+  assetPath: Assets/Gas Mask System V1.4/Scenes/GasMaskDemo.unity
+  uploadId: 620705

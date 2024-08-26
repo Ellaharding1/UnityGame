@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 6045a93fb05b9c74884821030da2c46c
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 166312
+  packageName: Gas Mask System V1
+  packageVersion: 1.4
+  assetPath: Assets/Gas Mask System V1.4/Additional Packages/FPSController/FirstPersonCharacter/Scripts/FOVKick.cs
+  uploadId: 620705

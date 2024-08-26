@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 492f54f4accf00440828ffcb9e4fcc19
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 166312
+  packageName: Gas Mask System V1
+  packageVersion: 1.4
+  assetPath: Assets/Gas Mask System V1.4/Additional Packages/FPSController/FirstPersonCharacter/Scripts/CurveControlledBob.cs
+  uploadId: 620705

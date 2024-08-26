@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 5cd052ce7ea5a2f438f599e02de6a390
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 166312
+  packageName: Gas Mask System V1
+  packageVersion: 1.4
+  assetPath: Assets/Gas Mask System V1.4/Particles/Gas Particles/Shaders/PriorityParticleAdd.shader
+  uploadId: 620705

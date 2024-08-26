@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: a8d55b4f029bffc4997f9640d13d5587
+timeCreated: 1434903309
+licenseType: Store
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 43423
+  packageName: Deferred Night Vision
+  packageVersion: 1.0
+  assetPath: Assets/DeferredNV/DeferredNightVision.shader
+  uploadId: 76141

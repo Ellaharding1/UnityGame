@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 3b09d59f4499d45428baa7a21e954296
+AudioImporter:
+  serializedVersion: 5
+  format: -1
+  loadType: 1
+  quality: -1
+  sampleRate: 0
+  forceToMono: 0
+  preloadAudioData: 1
+  loadInBackground: 0
+  overrideSampleRate: 0
+  optimizeSampleRate: 0
+  3D: 1
+  userData: 
+  assetBundleName: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 166312
+  packageName: Gas Mask System V1
+  packageVersion: 1.4
+  assetPath: Assets/Gas Mask System V1.4/Additional Packages/FPSController/FirstPersonCharacter/Audio/Land.wav
+  uploadId: 620705

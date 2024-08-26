@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 5c2d84226fbbaf94e9c1451f1c39b06a
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 166312
+  packageName: Gas Mask System V1
+  packageVersion: 1.4
+  assetPath: Assets/Gas Mask System V1.4/Additional Packages/FPSController/CrossPlatformInput/Scripts/TiltInput.cs
+  uploadId: 620705

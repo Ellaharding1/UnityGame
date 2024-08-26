@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: b19ad0f538a8e84409a992de706986c3
+timeCreated: 1513098499
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 166312
+  packageName: Gas Mask System V1
+  packageVersion: 1.4
+  assetPath: Assets/Gas Mask System V1.4/Scripts/Managers - One Per Scene/GMHealthManager.cs
+  uploadId: 620705

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: e9462258533a8254c82b8dcd32b39e50
+timeCreated: 1439098844
+licenseType: Store
+DefaultImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 43423
+  packageName: Deferred Night Vision
+  packageVersion: 1.0
+  assetPath: Assets/DeferredNV/Readme.pdf
+  uploadId: 76141

@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 9961032f4f02c4f41997c3ea399d2f22
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 166312
+  packageName: Gas Mask System V1
+  packageVersion: 1.4
+  assetPath: Assets/Gas Mask System V1.4/Additional Packages/FPSController/CrossPlatformInput/Scripts/PlatformSpecific/StandaloneInput.cs
+  uploadId: 620705

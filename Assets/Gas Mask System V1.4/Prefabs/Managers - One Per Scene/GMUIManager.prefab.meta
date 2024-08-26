@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 3cad8fb097c7c374ea25ec1ff702b6cc
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 166312
+  packageName: Gas Mask System V1
+  packageVersion: 1.4
+  assetPath: Assets/Gas Mask System V1.4/Prefabs/Managers - One Per Scene/GMUIManager.prefab
+  uploadId: 620705

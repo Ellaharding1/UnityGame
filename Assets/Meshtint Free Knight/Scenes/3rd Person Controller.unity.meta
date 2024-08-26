@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 0e38c937b3611904c9badaf3865ae050
+timeCreated: 1542271601
+licenseType: Store
+DefaultImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 133286
+  packageName: Meshtint Free Knight
+  packageVersion: 1.0
+  assetPath: Assets/Meshtint Free Knight/Scenes/3rd Person Controller.unity
+  uploadId: 278674

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: fe32fecdea817514a93dbf24227d5408
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 166312
+  packageName: Gas Mask System V1
+  packageVersion: 1.4
+  assetPath: Assets/Gas Mask System V1.4/ScriptableObjects/Sounds/SO_GasMask_Warning_Alarm.asset
+  uploadId: 620705

@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 600c6a6315392d5438b712615a23ccb5
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 166312
+  packageName: Gas Mask System V1
+  packageVersion: 1.4
+  assetPath: Assets/Gas Mask System V1.4/Scripts/Managers - One Per Scene/GMUIManager.cs
+  uploadId: 620705

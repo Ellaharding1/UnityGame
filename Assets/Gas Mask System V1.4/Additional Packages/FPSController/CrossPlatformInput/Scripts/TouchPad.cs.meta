@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 1caf40fc8bebb6b43b2550c05ca791d6
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 166312
+  packageName: Gas Mask System V1
+  packageVersion: 1.4
+  assetPath: Assets/Gas Mask System V1.4/Additional Packages/FPSController/CrossPlatformInput/Scripts/TouchPad.cs
+  uploadId: 620705

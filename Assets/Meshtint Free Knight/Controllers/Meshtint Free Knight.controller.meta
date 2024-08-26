@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: d05c65343761305459dd4f72d1f51309
+timeCreated: 1542270307
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 9100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 133286
+  packageName: Meshtint Free Knight
+  packageVersion: 1.0
+  assetPath: Assets/Meshtint Free Knight/Controllers/Meshtint Free Knight.controller
+  uploadId: 278674

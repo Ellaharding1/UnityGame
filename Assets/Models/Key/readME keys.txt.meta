@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 0a1cbe08239a10f49944337e0402d906
+timeCreated: 1437339979
+licenseType: Store
+TextScriptImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 42044
+  packageName: Handpainted Keys
+  packageVersion: 1.0
+  assetPath: Assets/Models/Key/readME keys.txt
+  uploadId: 73423

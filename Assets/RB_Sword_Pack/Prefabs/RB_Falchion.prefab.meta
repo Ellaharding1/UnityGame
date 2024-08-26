@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 128f20fd9fec12b4e9587d7fd19322b7
+timeCreated: 1485105617
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 81202
+  packageName: SciFantasy Sword Pack
+  packageVersion: 1.0
+  assetPath: Assets/RB_Sword_Pack/Prefabs/RB_Falchion.prefab
+  uploadId: 157876

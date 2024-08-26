@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 81c9795a96c094f4cbde4d65546aa9b2
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 166312
+  packageName: Gas Mask System V1
+  packageVersion: 1.4
+  assetPath: Assets/Gas Mask System V1.4/Additional Packages/FPSController/FirstPersonCharacter/Scripts/RigidbodyFirstPersonController.cs
+  uploadId: 620705

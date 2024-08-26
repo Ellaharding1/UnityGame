@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 41d1cac196452694fb10f2476db79e6e
+timeCreated: 1435407582
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 42044
+  packageName: Handpainted Keys
+  packageVersion: 1.0
+  assetPath: Assets/Models/Key/Prefabs/key_silver.prefab
+  uploadId: 73423

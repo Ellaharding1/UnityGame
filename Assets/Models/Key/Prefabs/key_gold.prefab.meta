@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: cc5de5e674870ca479a40105f80555ad
+timeCreated: 1434643818
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 42044
+  packageName: Handpainted Keys
+  packageVersion: 1.0
+  assetPath: Assets/Models/Key/Prefabs/key_gold.prefab
+  uploadId: 73423

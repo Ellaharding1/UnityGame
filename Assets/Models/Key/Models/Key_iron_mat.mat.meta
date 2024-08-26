@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 0275cd71d48a28e4ca8d99d740827a3f
+timeCreated: 1434638069
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 42044
+  packageName: Handpainted Keys
+  packageVersion: 1.0
+  assetPath: Assets/Models/Key/Models/Key_iron_mat.mat
+  uploadId: 73423

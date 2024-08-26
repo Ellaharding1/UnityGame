@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: ab7b190126872d44bb22c07b672c87b4
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 166312
+  packageName: Gas Mask System V1
+  packageVersion: 1.4
+  assetPath: Assets/Gas Mask System V1.4/ScriptableObjects/Sounds/SO_GasMask_BreathingFull.asset
+  uploadId: 620705
